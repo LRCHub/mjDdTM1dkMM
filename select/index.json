@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Summerlove [Scorccio Edit]",
+  "base_artist": "S-Connection",
+  "createdAt": "2026-03-20T13:30:24.380477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summerlove [Scorccio Edit] (feat. Anabelle)",
+      "artist": "S-Connection",
+      "has_synced": true,
+      "path": "select/01_Summerlove_[Scorccio_Edit]_(feat._Anabelle)_S-Connection.lrc"
+    }
+  ]
+}
